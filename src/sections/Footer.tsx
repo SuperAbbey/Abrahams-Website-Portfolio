@@ -1,8 +1,8 @@
 import ArrowUpRightIcon from '@/assets/icons/arrow-up-right.svg';
 const footerLinks = [
   {
-    title: 'Gmail',
-    href: 'https://www.youtube.com/@AbrahamRamirezSierra',
+    title: 'About',
+    href: 'https://personal-site-ah8k551fw-abraham-s-projects-d2831a71.vercel.app/contact',
   },
   {
     title: 'Resume',
