@@ -2,11 +2,11 @@ import ArrowUpRightIcon from '@/assets/icons/arrow-up-right.svg';
 const footerLinks = [
   {
     title: 'About',
-    href: 'https://personal-site-ah8k551fw-abraham-s-projects-d2831a71.vercel.app/contact',
+    href: 'https://personal-site-ah8k551fw-abraham-s-projects-d2831a71.vercel.app/about',
   },
   {
     title: 'Resume',
-    href: 'https://plum-viviana-14.tiiny.site',
+    href: 'https://personal-site-ah8k551fw-abraham-s-projects-d2831a71.vercel.app/resume',
   },
   {
     title: 'Instagram',
